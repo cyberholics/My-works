@@ -10,4 +10,4 @@
 
 [Machine learning zoomcamp midterm project](https://github.com/cyberholics/mlzoomcamp-midterm-project)
 
-[Machine learning technique to detect malicious URL links. (Machine learning zoomcamp capstone)](https://github.com/cyberholics/Malicious-URL-detector)
+[Machine learning technique to detect malicious URL links. (Machine learning zoomcamp capstone project)](https://github.com/cyberholics/Malicious-URL-detector)
