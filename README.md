@@ -22,7 +22,7 @@ I've organized my projects by type, so you'll find it easy to navigate through t
 [Machine learning technique to detect malicious URL links. (Machine learning zoomcamp capstone project)](https://github.com/cyberholics/Malicious-URL-detector)
 
 ## Natural Language Processing 
-
+https://github.com/cyberholics/ML-paper-recommender/blob/main/README.md
 
 
 ## Hackathons 
