@@ -19,7 +19,7 @@ I've organized my projects by type, so you'll find it easy to navigate through t
 ## Open Source Contributions
 
 ## Generative AI 
-[OmniWeb -- Chat with any website](https://github.com/cyberholics/OmniWeb)
+[OmniWeb - Chat with any website](https://github.com/cyberholics/OmniWeb)
 
 ## AI/ML & Cybersecurity 
 [Machine learning technique to detect malicious URL links. (Machine learning zoomcamp capstone project)](https://github.com/cyberholics/Malicious-URL-detector)
