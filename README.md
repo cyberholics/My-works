@@ -2,9 +2,9 @@
 
 # Welcome to the Highlight of My GitHub Profile
 
-**This is where you’ll find an overview of what I've been working on technically.**
+**This is where you’ll find an overview of what I've been working on.**
 
-I've been focused on AI/ML projects that I'm passionate about, particularly those that address real-world challenges. One area that excites me the most is **cybersecurity**. As such, you'll discover a variety of AI/ML projects here that tackle security issues.
+I've been passionate about AI/ML projects, particularly those that address real-world challenges.
 
 Feel free to explore my work, and don't hesitate to reach out if you have any questions or collaboration ideas.
 
