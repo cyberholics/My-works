@@ -2,16 +2,9 @@
 
 # Welcome to the Highlight of My GitHub Profile
 
-**This is where you’ll find an overview of what I've been working on.**
+**This is where you’ll find an overview of what I've been working on. I am passionate about building AI/ML projects, particularly those that address real-world challenges.
+**
 
-I've been passionate about AI/ML projects, particularly those that address real-world challenges.
-
-Feel free to explore my work, and don't hesitate to reach out if you have any questions or collaboration ideas.
-
-**Contact me: [victorkingoshimua@gmail.com](mailto:victorkingoshimua@gmail.com)**  
-**LinkedIn: [Victor Oshimua](https://www.linkedin.com/in/victor-oshimua-4b2945214/)**
-
-I've organized my projects by type, so you'll find it easy to navigate through them.
 
 </div>
 
@@ -19,10 +12,10 @@ I've organized my projects by type, so you'll find it easy to navigate through t
 ## Open Source Contributions
 
 ## LLM Engineering
-[Finetuned Gemma 2 model](https://github.com/cyberholics/Fine-Tuned-Gemma-Model-for-Cybersecurity-Helpdesk)
+1. [Finetuned Gemma 2 model](https://github.com/cyberholics/Fine-Tuned-Gemma-Model-for-Cybersecurity-Helpdesk)
 
 ## AI Application development
-[Ai applications with LLM wrapper](https://github.com/cyberholics/AI-Wrapper-Applications)
+1 .[Ai applications with LLM wrapper](https://github.com/cyberholics/AI-Wrapper-Applications)
 
 ## AI/ML & Cybersecurity 
 1. [Machine learning technique to detect malicious URL links. (Machine learning zoomcamp capstone project)](https://github.com/cyberholics/Malicious-URL-detector)
@@ -55,6 +48,10 @@ I've organized my projects by type, so you'll find it easy to navigate through t
 
 
 
+Feel free to explore my work, and don't hesitate to reach out if you have any questions or collaboration ideas.
+
+**Contact me: [victorkingoshimua@gmail.com](mailto:victorkingoshimua@gmail.com)**  
+**LinkedIn: [Victor Oshimua](https://www.linkedin.com/in/victor-oshimua-4b2945214/)**
 
 
 
