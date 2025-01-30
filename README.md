@@ -18,8 +18,11 @@ I've organized my projects by type, so you'll find it easy to navigate through t
 
 ## Open Source Contributions
 
-## Generative AI 
-[OmniWeb - Chat with any website](https://github.com/cyberholics/OmniWeb)
+## LLM Engineering
+[Finetuned Gemma 2 model](https://github.com/cyberholics/Fine-Tuned-Gemma-Model-for-Cybersecurity-Helpdesk)
+
+## AI Application development
+[]()
 
 ## AI/ML & Cybersecurity 
 [Machine learning technique to detect malicious URL links. (Machine learning zoomcamp capstone project)](https://github.com/cyberholics/Malicious-URL-detector)
@@ -29,7 +32,7 @@ I've organized my projects by type, so you'll find it easy to navigate through t
 
 
 ## Hackathons 
-[Google – AI Assistants for Data Tasks with Gemma](https://www.kaggle.com/code/victorkingoshimua/gemma-llm-instruction-fine-tuning-for-python-q-a/notebook)
+1.[Google – AI Assistants for Data Tasks with Gemma](https://www.kaggle.com/code/victorkingoshimua/gemma-llm-instruction-fine-tuning-for-python-q-a/notebook)
 
 [Employee Attrition Prediction](https://www.kaggle.com/competitions/bct-data-summit) Ranked 24/158
 
