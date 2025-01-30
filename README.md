@@ -14,7 +14,7 @@
 1. [Finetuned Gemma 2 model](https://github.com/cyberholics/Fine-Tuned-Gemma-Model-for-Cybersecurity-Helpdesk)
 
 ## AI Application development
-1 .[Ai applications with LLM wrapper](https://github.com/cyberholics/AI-Wrapper-Applications)
+1. [Ai applications with LLM wrapper](https://github.com/cyberholics/AI-Wrapper-Applications)
 
 ## AI/ML & Cybersecurity 
 1. [Machine learning technique to detect malicious URL links. (Machine learning zoomcamp capstone project)](https://github.com/cyberholics/Malicious-URL-detector)
