@@ -2,8 +2,7 @@
 
 # Welcome to the Highlight of My GitHub Profile
 
-**This is where you’ll find an overview of what I've been working on. I am passionate about building AI/ML projects, particularly those that address real-world challenges.
-**
+**This is where you’ll find an overview of what I've been working on. I am passionate about building AI/ML projects, particularly those that address real-world challenges.**
 
 
 </div>
@@ -48,7 +47,8 @@
 
 
 
-Feel free to explore my work, and don't hesitate to reach out if you have any questions or collaboration ideas.
+
+### Feel free to explore my work, and don't hesitate to reach out if you have any questions or collaboration ideas.
 
 **Contact me: [victorkingoshimua@gmail.com](mailto:victorkingoshimua@gmail.com)**  
 **LinkedIn: [Victor Oshimua](https://www.linkedin.com/in/victor-oshimua-4b2945214/)**
